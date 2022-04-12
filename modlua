@@ -4,7 +4,7 @@ MODS = {
 }
 
 ADMIN = {
-    [3350603636] = true; -- dylann
+    [336] = true; -- dylann
 }
 
 --// Don't mess with anything below this
